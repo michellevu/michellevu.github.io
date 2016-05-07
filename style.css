@@ -1,0 +1,22 @@
+.intro {
+    color: hotpink;
+    background-color: black;
+}
+
+.intro img {
+    height: 120px;
+    width: 100px;
+}
+
+.my_projects{
+    background-color: lavenderblush;
+    height: auto;
+}
+
+.my_projects .project {
+    background-color: inherit;
+}
+
+.contact {
+    background-color: lavenderblush
+}
